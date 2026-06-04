@@ -11,7 +11,7 @@
 打开
 
 ```
-dist/sakazi_shop_detector/sakazi_shop_detector.exe
+sakazi_shop_detector.exe
 ```
 
 进入游戏商店界面后，点击窗口里的“开始识别”。
