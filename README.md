@@ -16,3 +16,6 @@ dist/sakazi_shop_detector/sakazi_shop_detector.exe
 
 进入游戏商店界面后，点击窗口里的“开始识别”。
 
+## 注意
+
+务必不要点击藏品或分队图标遮挡商店物品，否则会识别错误！
